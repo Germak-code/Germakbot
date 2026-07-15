@@ -1,4 +1,4 @@
-# Telegram Bot
+# Germakbot
 
 A Telegram bot built with Python using python-telegram-bot.
 
